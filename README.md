@@ -1,12 +1,12 @@
 # WholeLungAnalysis
 1. Obtain the CODE files and place them all in the same folder. The following file MUST be included to work: 
 
-a. WholeLungMasterFile.m 
-b. wholelunganalysis.m 
-c. lungtumorID.m 
-d. lungtumorfill.m 
-e. lungboundaryID.m 
-f. drawlungboundry.m 
+  a. WholeLungMasterFile.m 
+  b. wholelunganalysis.m 
+  c. lungtumorID.m 
+  d. lungtumorfill.m 
+  e. lungboundaryID.m 
+  f. drawlungboundry.m 
 
 2. If you lost some of these files, they are available at: https://github.com/rwuengrcancercolonyid/CrossSectionAnalysis 
 3. Open the WholeLungMasterFile.m file in MATLAB. 
